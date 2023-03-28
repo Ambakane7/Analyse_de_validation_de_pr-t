@@ -1,1 +1,1 @@
-# Analyse_de_validation_de_pr-t
+# Analyse_de_validation_de_prêt on a deux (2) dataset un de 624 lignes et 13 colonnes et une deuxième de 312 et 12 colonne pour testé notre model
